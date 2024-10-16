@@ -1,5 +1,3 @@
-![1](https://github.com/user-attachments/assets/b3f7b3d3-846d-415a-8b90-86cc592c0e4c)![image](https://github.com/user-attachments/assets/cb8374a6-5049-4623-9422-6a9bf4f16100)# Brute-Force-Attack
-
 Install KALI LINUX
 https://www.kali.org/get-kali/
 
